@@ -11,7 +11,7 @@
 
 # Laravel 8 Vue3
 
-![alt text](https://github.com/AjayYadavAi/laravel-starter/blob/main/image.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/Laravel8Vuejs3/blob/main/image.png?raw=true)
 
 
 
