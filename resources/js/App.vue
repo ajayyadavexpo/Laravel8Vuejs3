@@ -1,21 +1,17 @@
 <template>
 	<div id="app">
 
-		<employees />	
+		<employee />
 		
 	</div>
 </template>
+
 <script>
+	import employee from './components/employee.vue';
 
-	import employees from './components/employee/index.vue';
-
-	export default {
-
+	export default{
 		components:{
-
-			employees
-
+			employee
 		}
-
 	}
 </script>
